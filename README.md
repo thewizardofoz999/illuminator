@@ -11,4 +11,4 @@ Index:
 
 • "Illuminator BOOST" is an upgrade board for ILL.v1.
 
-• "Illuminator" is the second version. This version has a MCU (ATmega328) and temperature sensors on both side of the board. Thus it can work with a closed feedback loop algorithm. We'we written an Arduino IDE library for the v2 board. Library files are also included in the repository.
+• "Illuminator" is the second version. This version has a MCU (ATmega328) and temperature sensors on both side of the board. Thus it can work with a closed feedback loop algorithm. We'we written an Arduino IDE library for the v2 board. Library files are also included in the repository in software folder.
